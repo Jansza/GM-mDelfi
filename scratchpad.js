@@ -3,8 +3,10 @@
 // @namespace   foobar
 // @include     http://m.delfi.ee/*
 // @include     http://m.*.delfi.ee/*
-// @version     1
+// @version     1.01
 // @grant       none
+// @updateURL https://raw.githubusercontent.com/Jansza/GM-mDelfi/master/scratchpad.js
+// @downloadURL https://raw.githubusercontent.com/Jansza/GM-mDelfi/master/scratchpad.js
 // ==/UserScript==
 
 var classes = ['md-banner', 'md-specialblock', 'mobile-widget'];
